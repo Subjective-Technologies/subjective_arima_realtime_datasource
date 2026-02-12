@@ -1,4 +1,5 @@
 {
+  "description": "Runs ARIMA-based realtime analytics from the trading stack and emits per-symbol forecasting outputs for downstream strategy pipelines.",
   "domainCategory": "Trading",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Arima Realtime",
-      "text": "Subjective datasource implementation for SubjectiveArimaRealtimeDataSource.",
+      "text": "Runs ARIMA-based realtime analytics from the trading stack and emits per-symbol forecasting outputs for downstream strategy pipelines.",
       "image": {
         "src": "/subjective_arima_realtime_datasource/icon.svg",
         "alt": "Arima Realtime icon"
